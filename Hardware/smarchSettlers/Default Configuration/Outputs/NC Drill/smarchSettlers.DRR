@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: smarchSettlers.CSPcbDoc   5/11/2021  10:11:44 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : smarchSettlers.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15mil (0.381mm)          Round          6                4.12 Inch (104.77 mm)
+T2        68.9mil (1.75006mm)      Round          6                1.42 Inch (36.00 mm)
+---------------------------------------------------------------------------
+Totals                                            12               5.54 Inch (140.77 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

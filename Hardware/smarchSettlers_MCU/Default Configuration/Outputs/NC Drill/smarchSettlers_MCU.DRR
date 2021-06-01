@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: smarchSettlers_MCU.CSPcbDoc   5/11/2021  10:25:38 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : smarchSettlers_MCU.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          42               6.77 Inch (171.86 mm)
+T2        15mil (0.381mm)          Round          6                4.10 Inch (104.24 mm)
+T3        40.2mil (1.02108mm)      Round          2                0.10 Inch (2.54 mm)
+T4        68.9mil (1.75006mm)      Round          6                1.42 Inch (36.00 mm)
+---------------------------------------------------------------------------
+Totals                                            56               12.39 Inch (314.64 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
